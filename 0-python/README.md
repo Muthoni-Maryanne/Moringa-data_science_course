@@ -12,6 +12,6 @@
 |4.    |               |               |
 |5.    | [5-Python_programming-Dictionaries](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/5-Python_programming-Dictionaries.ipynb) | Concept covered is dictionaries- creating, adding elements, updating elements, accessing elements, checking if a key exists with if...in and if...not in keywords, getting length and removing elements with del or clearing the dictionary. |
 |6.    | [0-python/6-Python_programming-For_loop](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/6-Python_programming-For_loop.ipynb) | Concept covered is iteration in form of for loop. This examines for loops with range function, break and continue statements, else, nested loops iterating through strings and sequences such as lists, dictionaries, tuples and sets. |
-|7.    | [7-Python_programming-While_loop.ipynb](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/7-Python_programming-While_loop.ipynb) |  Concept covered is iteration in form of while loop. This examines while loop, break, continue and else  statement. |
+|7.    | [7-Python_programming-While_loop](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/7-Python_programming-While_loop.ipynb) |  Concept covered is iteration in form of while loop. This examines while loop, break, continue and else  statement. |
 |8.    |               |               |
 |9.    |               |               |
