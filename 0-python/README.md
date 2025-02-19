@@ -14,7 +14,7 @@
 |6.    | [6-Python_programming-For_loop](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/6-Python_programming-For_loop.ipynb) | Concept covered is iteration in form of for loop. This examines for loops with range function, break and continue statements, else, nested loops iterating through strings and sequences such as lists, dictionaries, tuples and sets. |
 |7.    | [7-Python_programming-While_loop](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/7-Python_programming-While_loop.ipynb) |  Concept covered is iteration in form of while loop. This examines while loop, break, continue and else  statement. |
 |8.    | [8-Python_programming-Functions](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/8-Python_programming-Functions.ipynb)  | Concept covered is python functions: built in functions, python methods for objects, modules, print vs return in functions, parameters(keyword and positional), arguments and a brief introduction to Object Oriented Programming(OOP). |
-|9.    |               |               |
+|9.    | [9-Python_Programming-Numpy_Basics](https://github.com/Muthoni-Maryanne/Moringa-data_science_course/blob/main/0-python/9-Python_Programming-Numpy_Basics.ipynb)              |  Concept covered is numeric python(numPy): creation of numpy arrays from lists, using np.zeros, np.ones, np.linspace, np,random.randint, np.random.random, np.arange and many more, broadcasting, scalar operations, slicing arrays with bracketing notation, multiplying matrices and many more.            |
 |10.    |               |               |
 |11.    |               |               |
 |12.    |               |               |
